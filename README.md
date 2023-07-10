@@ -77,4 +77,4 @@ This project is licensed under the MIT license.
 For any questions or inquiries, feel free to reach out to me:
 - GitHub: [DiogoS77](https://github.com/DiogoS77)
 - Email: diogo.messi.18@hotmail.com
-- [Watch the Video]()
+- [Watch the Video](https://drive.google.com/file/d/1oYXIqnO7K49Qt2Iiwugl0QF3uH1GON0s/view)
